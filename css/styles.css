@@ -399,6 +399,11 @@ h2 {
     background: #2E2F42;
     padding: 100px 0;
 }
+.footer-content {
+    display: flex;
+    align-items: baseline;
+    margin-right: 120px;
+}
 
 .footer-text {
     font-family: 'Roboto';

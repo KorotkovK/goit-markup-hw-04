@@ -258,6 +258,16 @@ h2 {
     margin-bottom: 0;
 }
 
+.second-section-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 112px;
+    background-color: #f4f4fd;
+    border-radius: 4px;
+    margin-bottom: 8px;
+}
+
 /* Section 3 */
 .section-subject {
     font-family: 'Roboto';
@@ -324,6 +334,7 @@ h2 {
     color: var(--color-navy-blue);
     text-align: center;
     margin-bottom: 8px;
+    margin-top: 0;
 }
 
 .hidden-text {
@@ -405,6 +416,21 @@ h2 {
     color: #f4f4fd;
 }
 
+.logo-link-footer {
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4D5AE5;
+    margin-right: 76px;
+    padding: 0;
+    display: inline-block;
+    margin-bottom: 16px;
+
+}
 
 /* Portfolio */
 .button-list {

@@ -418,7 +418,9 @@ h2 {
 
 }
 
-.fifth-section-link:hover,
+.fifth-section-icon {
+    fill: currentColor;
+}
 .fifth-section-link:focus {
     border-color: #404bbf;
     color: #404bbf;

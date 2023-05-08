@@ -342,10 +342,7 @@ h2 {
     justify-content: center;
 }
 
-.icons-link:hover {
-    background-color: #404bbf;
-}
-
+.icons-link:hover,
 .icons-link:focus {
     background-color: #404bbf;
 }
@@ -425,11 +422,7 @@ h2 {
     fill: currentColor;
 }
 
-.fifth-section-link:hover {
-    border-color: #404bbf;
-    color: #404bbf;
-}
-
+.fifth-section-link:hover,
 .fifth-section-link:focus {
     border-color: #404bbf;
     color: #404bbf;

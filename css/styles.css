@@ -434,12 +434,6 @@ h2 {
     padding: 100px 0;
 }
 
-.footer-content {
-    display: flex;
-    align-items: baseline;
-    margin-right: 120px;
-}
-
 .footer-text {
     font-family: 'Roboto';
     font-style: normal;
@@ -479,7 +473,9 @@ h2 {
     margin-right: 120px;
 }
 
-.footer-container {}
+.footer-container {
+    margin-right: 120px;
+}
 
 .second-footer-text {
     font-weight: 500;

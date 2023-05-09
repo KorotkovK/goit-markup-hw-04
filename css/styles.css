@@ -156,6 +156,9 @@ h2 {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    background-position: center;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .text-hero {
@@ -330,6 +333,7 @@ h2 {
     display: flex;
     justify-content: center;
     gap: 24px;
+    margin-top: 8px;
 }
 
 .icons-link {
@@ -394,6 +398,10 @@ h2 {
     line-height: 1.1;
     color: #2e2f42;
     margin-bottom: 72px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    margin-left: 470px;
 }
 
 .fifth-section-list {
@@ -432,6 +440,9 @@ h2 {
 .footer {
     background: #2E2F42;
     padding: 100px 0;
+    max-width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .footer-text {

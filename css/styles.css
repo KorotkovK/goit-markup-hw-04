@@ -431,7 +431,19 @@ h2 {
     fill: currentColor;
 }
 
-.fifth-section-link:hover,
+.fifth-section-icon:hover {
+    color: #404bbf; 
+}
+
+.fifth-section-icon:focus {
+    color: #404bbf; 
+}
+
+.fifth-section-link:hover {
+    border-color: #404bbf;
+    color: #404bbf;
+}
+
 .fifth-section-link:focus {
     border-color: #404bbf;
     color: #404bbf;
@@ -441,7 +453,7 @@ h2 {
 .footer {
     background: #2E2F42;
     padding: 100px 0;
-    max-width: 1440px;
+   
     margin-left: auto;
     margin-right: auto;
 }
@@ -482,7 +494,7 @@ h2 {
 .section-footer {
     display: flex;
     align-items: baseline;
-    margin-right: 120px;
+
 }
 
 .footer-container {
